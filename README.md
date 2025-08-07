@@ -24,5 +24,5 @@ Terminal Growth Rate: 2.5%
 ## Output
 Intrinsic equity value per share : VND 155,886
 Total firm value :   265,244,699 million VND
-### According to the results, the upside is +120% which seems quite bullish assumption. However, if the assumptions are all correct and no error is in the model, i would suggest the investor to BUY. Another thing to note is starting from 2025, the gross margin %YOY remained flat at 22% which is skeptical for a company like MWG that is recovering from the restructuring process. 
-### After a thorough research, i will upload the research report.
+### According to the results, the upside is over +120% which seems quite an optimistic assumption. However, if the assumptions are all correct and no error is in the model, i would suggest the investor to BUY. Another thing to note is starting from 2025, the gross margin %YOY remained flat at 22% which is skeptical for a company like MWG that is recovering from the restructuring process. 
+
